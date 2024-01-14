@@ -1,9 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "koukibuu3/salestack-report",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "license": "proprietary",
     "require": {
         "php": "8.2.12",
         "bref/bref": "^2.1",
