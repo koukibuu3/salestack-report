@@ -20,3 +20,6 @@ yarn-error.log
 
 # serverless flamework
 /.serverless
+
+# Mac
+.DS_Store
